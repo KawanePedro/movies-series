@@ -1,0 +1,126 @@
+Título dos filmes
+
+{"title": "The Shawshank Redemption"}
+
+===================================================================
+
+Título das séries
+
+{"title": "Breaking Bad"}
+
+===================================================================
+
+Filme/Série com maior rating
+
+{"Breaking Bad": 9.5}
+
+===================================================================
+
+Todos os gêneros de filmes/séries
+
+["Crime", "Drama", "Thriller"]
+
+===================================================================
+
+Quantidade total de filmes/séries
+
+{"movies": 1, "series": 1}
+
+===================================================================
+
+Plataformas de streaming disponíveis
+
+["Amazon Prime", "Netflix"]
+
+===================================================================
+
+Filmes/séries disponíveis em 4k
+
+["The Shawshank Redemption", "Breaking Bad"]
+
+===================================================================
+
+Onde os filmes estão disponíveis?
+
+{"The Shawshank Redemption": {"Netflix": "https://www.netflix.com/title/70005379"}}
+
+===================================================================
+
+Todos os atores + personagens interpretados
+
+{"Tim Robbins": "Andy Dufresne", "Morgan Freeman": "Ellis Boyd 'Red' Redding", "Bryan Cranston": "Walter White", "Aaron Paul": "Jesse Pinkman"}
+
+===================================================================
+
+Ator com maior salário em filme ou salário
+
+{"Morgan Freeman": 5000000}
+
+===================================================================
+
+Localizações de filmagem dos filmes
+
+[["Mansfield, Ohio", "Ashland, Ohio"]]
+
+===================================================================
+
+Cada filme e seu diretore
+
+{"The Shawshank Redemption": ["Frank Darabont"]}
+
+===================================================================
+
+Filme com maior receita na bilheteria
+
+{"The Shawshank Redemption": 28341469}
+
+===================================================================
+
+Lucro médio dos filmes
+
+28341469.0
+
+===================================================================
+
+Distribuição de vendas de ingressos de cada filme por região
+
+{"The Shawshank Redemption": {"domestic": 15000000, "international": 13341469}}
+
+===================================================================
+
+Premios e categorias de cada filme e série
+
+{"The Shawshank Redemption": {"year": 1995, "award": "Academy Awards", "category": "Best Picture"}, "Breaking Bad": {"year": 2013, "award": "Primetime Emmy Awards", "category": "Outstanding Drama Series"}}
+
+===================================================================
+
+Quais filmes e séries receberam premios
+
+["Breaking Bad"]
+
+===================================================================
+
+Indicados a Best Picture (por ano)
+
+{"1995": ["The Shawshank Redemption"]}
+
+===================================================================
+
+Comentário com maior número de votos únicos
+
+{"The best TV show ever made!": 500}
+
+===================================================================
+
+Nota média dos filmes
+
+9.3
+
+===================================================================
+
+Avaliações feitas antes de 2022
+
+{"The best TV show ever made!": "2021-08-10"}
+
+===================================================================
+
